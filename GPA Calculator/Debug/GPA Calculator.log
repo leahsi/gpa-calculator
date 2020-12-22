@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\leah7\Desktop\Projects\GPA Calculator\GPA Calculator\Main.cpp(140,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  GPA Calculator.vcxproj -> C:\Users\leah7\Desktop\Projects\GPA Calculator\Debug\GPA Calculator.exe
